@@ -1,0 +1,42 @@
+a {
+    color: gold;
+}
+h1 {
+
+    color: gold;
+}
+img {
+    width: 400px;
+} 
+.thirdDivContainer {
+    display: flex;
+    flex-direction: column;
+}
+    
+#thirdDiv {
+    margin: 0 auto;
+    height: 600px;
+    width: 500px;
+    color: darkslategrey;
+    padding: 50px;
+    border: 1rem solid darkslategrey;    
+}
+.flexcontainer {
+    display: flex;
+    background-image: url(/08-HTML/img/soberhead.jpg);
+    background-size: cover;
+    flex-direction: column;
+}
+.flexcontainer div {
+    text-align: center;
+}
+#spanID {
+    font-size: 18px;
+    margin: 50px;
+}
+body {
+    background-image: url(/08-HTML/img/background.jpg);
+    background-color: dimgray;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
