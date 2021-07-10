@@ -1,0 +1,4 @@
+for: aca le vamos a decir a la compu que realice una tarea muchas veces, hasta que cumpla con una situacion que le doy. Primero le doy un dato, le digo cuando tiene que parar y despues que es lo que tiene que hacer hasta que pare, y además le decimos que puede hacer con ese dato que le di al principio las veces que pueda.
+||: esto nos indica que puede ser o una situacion u otra.
+&&: esta nos dice que deben ser las dos situaciones si o si
+!: esta nos dice que es lo contrario a lo que tenga despues, por ej si tiene un signo === que representa una igualdad, esta nos dira que no es igual
