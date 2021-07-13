@@ -1,0 +1,5 @@
+Objetos: los objetos guardan datos pero ademas del nombre de estos datos tambien guardamos una "descripcion" de estos datos, aunque estos datos estan agrupados podemos llamar a cada uno por su nombre o llamar al valor de cada nombre, modificarlos, decirles que ejecuten una funcion, etc.
+Propiedades: las propiedades son los "nombres" de estos datos que tenemos, podemos llamarlas , modificarlas o borrarlas
+Metodos: acá es cuando a los nombres de estos datos en vez de ponerles "descripciones" podemos ponerles "tareas" o cosas que tienen que hacer cuando estos "nombres" sean llamados
+bucle for in : se utiliza para llamar a todos los "nombres" que necesitemos de los objetos uno por uno y si queremos tambien llamar a sus "descripciones" o "tareas"
+notacion de puntos vs notacion de corchetes: una diferencia importante es que con la de puntos no podemos llamar a una variable, si tenemos una variable que se llama igual que una dato de un objeto, vamos a llamar al dato del objeto e ignorar la variable. la de puntos es mas facil de leer y por eso a veces es mas usada.  
