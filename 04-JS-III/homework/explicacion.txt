@@ -1,0 +1,1 @@
+arrays: los arrays son como carpetas donde guardamos datos todos juntos, despues podemos conseguir los datos por su numero de orden, comenzando con 0. luego podemos verificar de muchas formas los datos adentro de esta, todos agrupados sin tener que hacerlo individualmente
