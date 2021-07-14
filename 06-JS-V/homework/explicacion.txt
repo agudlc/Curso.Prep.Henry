@@ -1,0 +1,2 @@
+prototype: con esto logramos que objetos puedan heredar propiedades de algun objeto constructor, loq ue significa que podemos decidir que "datos" vamos a guardar en un solo prototipo para luego utilizar el mismo para varios objetos, y asi ser mas eficaces. Tambien hay una propiedad llamda prototipo que utilizamos para añadir a los objetos constructores otras propiedades o metodos
+constructor: un constructor va a ser un objeto donde definimos propiedades y las llamamos con el this, luego poder trabajar utilizando prototipos y la palabra clave new.
