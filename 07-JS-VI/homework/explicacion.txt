@@ -1,0 +1,1 @@
+callback: con esto llamamos a una funcion para utilizarlas con otros parametros si queremos, sin necesidad de volver a escribirla
